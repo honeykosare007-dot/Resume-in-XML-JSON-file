@@ -1,0 +1,24 @@
+<profile>
+  <name>Honey Kosare</name>
+  <title>AI Trainer</title>
+  <contact>honeykosare007@gmail.com</contact>
+  <location>India</location>
+
+  <skills>
+    <skill>SFT</skill>
+    <skill>RLHF</skill>
+    <skill>Preferential Ranking</skill>
+  </skills>
+
+  <experience>
+    <role>
+      <year>2025</year>
+      <title>Data Annotator</title>
+      <responsibilities>
+        <responsibility>Prompt Engineering</responsibility>
+        <responsibility>Fine-tuning AI</responsibility>
+        <responsibility>Reviewer</responsibility>
+      </responsibilities>
+    </role>
+  </experience>
+</profile>
