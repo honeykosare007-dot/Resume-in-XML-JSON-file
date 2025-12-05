@@ -1,0 +1,22 @@
+{
+  "name": "Honey Kosare",
+  "title": "AI Trainer",
+  "contact": "honeykosare007@gmail.com",
+  "location": "India",
+  "skills": [
+    "SFT",
+    "RLHF",
+    "Preferential Ranking"
+  ],
+  "experience": [
+    {
+      "year": "2025",
+      "role": "Data Annotator",
+      "responsibilities": [
+        "Prompt Engineering",
+        "Fine tuning AI",
+        "Reviewer"
+      ]
+    }
+  ]
+}
