@@ -1,2 +1,2 @@
-# Resume-in-XML-JSON-file
+# Resume-in-XML-JSON-MD file
 This repository stores my resume in multiple structured formats. Demonstrates my ability to work with documentation and AI Training.
